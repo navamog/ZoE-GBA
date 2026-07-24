@@ -1,0 +1,3 @@
+set write z2 charblk: 'OK'
+set access z4 charblk: 'OK'
+stop: ''

@@ -1,0 +1,5 @@
+base char hash 00980a38
+step 3000 pc=03000d28 cblk=00980a38
+step 6000 pc=03000d4c cblk=00980a38
+step 9000 pc=03000d34 cblk=00980a38
+wrote out/adv_trace.txt 12000 steps, changed_at None

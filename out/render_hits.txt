@@ -1,0 +1,2 @@
+timeout/no-hit ('')
+total hits 0
